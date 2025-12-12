@@ -1,5 +1,5 @@
 // server.js - Простой сервер
-const http = require('https://');
+const http = require('http');
 
 const PORT = 3000;
 
